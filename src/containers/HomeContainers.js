@@ -6,7 +6,7 @@ import Home from '../components/Home';
 
 const mapStateToProps =state => ({
 
-})
+  })
 
 
 const mapDispatchToProps =dispatch => ({
